@@ -82,8 +82,7 @@ public class EditJournalActivity extends AppCompatActivity {
 
         if (id == R.id.action_doneID){
             Toast.makeText(EditJournalActivity.this, "Journal Saved", Toast.LENGTH_LONG).show();
-            Intent i = new Intent(EditJournalActivity.this, MainActivity.class);
-            startActivity(i);
+            this.finish();
         }
 
         if (id == android.R.id.home){
