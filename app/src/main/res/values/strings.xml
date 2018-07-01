@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="action_settings">Settings</string>
+    <string name="write_something">What is on your mind</string>
+    <string name="exit">Exit</string>
+    <string name="start">LogIn</string>
+    <string name="next">Next</string>
+    <string name="slide_1_title">Welcome To My Journal</string>
+    <string name="slide_1_desc">Journal For Everyone</string>
+    <string name="slide_2_title">Save ?</string>
+    <string name="slide_2_desc">Journals Are Automatically Saved</string>
+    <string name="slide_3_title">Design</string>
+    <string name="slide_3_desc">My Journal Make Use Of All Material Design Guidelines</string>
+    <string name="slide_4_title">Appreciation</string>
+    <string name="slide_4_desc">Thank You Google , Udacity and Andela</string>
+    <string name="skip">Skip</string>
+    <string name="kindly_login_to_continue">Kindly Login To Continue</string>
+</resources>
